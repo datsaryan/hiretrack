@@ -6,7 +6,7 @@
 [![CI](https://github.com/datsaryan/hiretrack)](https://github.com/datsaryan/hiretrack/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-**Live demo →** _add your deployed URL here_
+**Live demo →**[https://hiretrack-ry59.vercel.app](https://hiretrack-ry59.vercel.app)
 
 Built as part of the [Digital Heroes](https://digitalheroes.dev) Full Stack
 Developer trial task.
